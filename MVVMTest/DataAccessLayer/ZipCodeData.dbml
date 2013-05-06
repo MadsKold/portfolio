@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ZipCodeDatabase" Class="ZipCodeDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=ZipCodeDatabase;Integrated Security=True" SettingsObjectName="DataAccessLayer.Properties.Settings" SettingsPropertyName="ZipCodeDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ZipCodeEntity" Member="ZipCodeEntities">
+    <Type Name="ZipCodeEntity">
+      <Column Name="Ziocode" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

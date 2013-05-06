@@ -1,0 +1,33 @@
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\MVVMTest.exe.config
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.csprojResolveAssemblyReference.cache
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MainWindow.baml
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\View\ZipWindow.baml
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MainWindow.g.cs
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\View\ZipWindow.g.cs
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\App.g.cs
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest_MarkupCompile.cache
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.g.resources
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.Properties.Resources.resources
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.csproj.GenerateResource.Cache
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\MVVMTest.exe
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\MVVMTest.pdb
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.exe
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\MVVMTest.pdb
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\View\ZipWindow1.baml
+c:\users\mads kold knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\obj\Debug\View\ZipWindow1.g.cs
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\Documents\Visual Studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\DataAccessLayer.dll
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\MVVMTest\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mads Kold Knudsen\Dropbox\Semesterprojekt\MVVM\MVVMTest\MVVMTest\bin\Debug\MVVMTest.exe.config
+C:\Users\Mads Kold Knudsen\Dropbox\Semesterprojekt\MVVM\MVVMTest\MVVMTest\obj\Debug\MVVMTest.exe
+C:\Users\Mads Kold Knudsen\Dropbox\Semesterprojekt\MVVM\MVVMTest\MVVMTest\obj\Debug\MVVMTest.pdb

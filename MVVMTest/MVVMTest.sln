@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMTest", "MVVMTest\MVVMTest.csproj", "{9BC7C2AC-81E9-4180-B04B-C334FB26FAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{2D89DA7F-473C-4FE5-B624-9D0036B54B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC7C2AC-81E9-4180-B04B-C334FB26FAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC7C2AC-81E9-4180-B04B-C334FB26FAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC7C2AC-81E9-4180-B04B-C334FB26FAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC7C2AC-81E9-4180-B04B-C334FB26FAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D89DA7F-473C-4FE5-B624-9D0036B54B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D89DA7F-473C-4FE5-B624-9D0036B54B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D89DA7F-473C-4FE5-B624-9D0036B54B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D89DA7F-473C-4FE5-B624-9D0036B54B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

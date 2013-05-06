@@ -1,0 +1,6 @@
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Mads Kold Knudsen\documents\visual studio 2012\Projects\MVVMTest\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

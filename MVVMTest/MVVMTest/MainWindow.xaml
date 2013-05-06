@@ -1,0 +1,39 @@
+﻿<Window x:Class="MVVMTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"         
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Zipcode" VerticalAlignment="Center"/>
+        <TextBlock Text="City name" Grid.Row="1" VerticalAlignment="Center"/>
+        <TextBox Name="txtCode" Grid.Column="1"  Margin="5" Text="{Binding Path=Code}">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter" >
+                    <i:InvokeCommandAction Command="{Binding ClearTextCommand}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </TextBox>
+        <TextBox Name="txtCity" Grid.Row="1" Grid.Column="1" Margin="5" Text="{Binding Path=City}">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter" >
+                    <i:InvokeCommandAction Command="{Binding ClearText1Command}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </TextBox>
+        <Button Command="{Binding Path=AddCommand}" Grid.Row="2" Grid.Column="1" Content="Add new"></Button>
+        <Button Command="{Binding Path=AddSampleCommand}" Grid.Row="2" Grid.Column="0" Content="Add Sampledata"></Button>
+
+    </Grid>
+</Window>
